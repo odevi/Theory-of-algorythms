@@ -12,6 +12,20 @@
         <title>TA start</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>My TA labs</h1>
+        <p>My labs IP-11</p>
+        <div>
+            <form action="lab1.jsp">
+
+                <input type="submit" value="lab1">
+
+            </form>
+        </div>
+        <div>
+            <form action="lab2form.jsp">
+                <input type="submit" value="lab2">
+            </form> 
+        </div>
+        <p><a href="<lab1.jsp">Alternative variant</a><p>"
     </body>
 </html>
